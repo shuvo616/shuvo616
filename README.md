@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvo Podder</h1>
 <h3 align="center">A professional & dedicated frontend developer from Bangladesh!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvo616" alt="shuvo616" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sharp-clarke-da0361.netlify.app/](https://sharp-clarke-da0361.netlify.app/)
 
 - 💬 Ask me about **React, Node and JavaScript.**
@@ -23,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo616&show_icons=true&locale=en" alt="shuvo616" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo616&" alt="shuvo616" /></p>
-
-
