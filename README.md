@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo Podder</h1>
 <h3 align="center">A professional & dedicated frontend developer from Bangladesh!</h3>
 
-- 👨‍💻 All of my projects are available at [https://sharp-clarke-da0361.netlify.app/](https://sharp-clarke-da0361.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sharp-clarke-da0361.netlify.app/](https://shuvo616dev.netlify.app/)
 
 - 💬 Ask me about **React, Node and JavaScript.**
 
